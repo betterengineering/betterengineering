@@ -1,7 +1,7 @@
 ### 👋 Hello, friend!
-I'm Mark, delighted you've found your way here! I'm an ardent coder and tech enthusiast, currently currently illuminating the world through LED pixels [@tidbyt](https://github.com/tidbyt). My tech journey has taken me from supporting AI advancements at [@facebook](https://github.com/facebook) to shaping server backends at [@Squarespace](https://github.com/Squarespace). Quite a ride it's been!
+I'm Mark, delighted you've found your way here! I'm an ardent coder and tech enthusiast, currently currently illuminating the world through LED pixels [@tidbyt](https://github.com/tidbyt). My tech journey has taken me from supporting AI advancements [@facebook](https://github.com/facebook) to shaping server backends [@Squarespace](https://github.com/Squarespace). Quite a ride it's been!
 
-Beyond the world of 1s and 0s, I'm excited about: 🚴‍♂️ Navigating the vibrant cityscape on two wheels, ☕ Brewing the perfect cup of coffee, 🍸 Mixing signature cocktails, ⛺ Absorbing the tranquility of nature, and 🍳 Creating culinary masterpieces.
+Beyond the world of 1s and 0s, I'm excited about: 🚴‍♂️ navigating the vibrant cityscape on two wheels, ☕ brewing the perfect cup of coffee, 🍸 mixing signature cocktails, ⛺ absorbing the tranquility of nature, and 🍳 creating culinary masterpieces.
 
 Don't hesitate to reach out – I'm always up for delving into these topics, and I'm curious to discover what fuels your fire 🔥.
 
