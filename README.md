@@ -1,5 +1,9 @@
-### Hi there 👋
-My name is Mark, thanks for swinging by! I spend most of my time these days working on [@tidbyt](https://github.com/tidbyt). Formerly, I spent some time supporting AI [@facebook](https://github.com/facebook) and building server backends [@Squarespace](https://github.com/Squarespace). If we get a chance to chat, I want to talk about bikes, coffee, cocktails, camping, cooking, and the thing you’re most passionate about.
+### 👋 Hello, friend!
+I'm Mark, delighted you've found your way here! I'm an ardent coder and tech enthusiast, currently currently illuminating the world through LED pixels [@tidbyt](https://github.com/tidbyt). My tech journey has taken me from supporting AI advancements at [@facebook](https://github.com/facebook) to shaping server backends at [@Squarespace](https://github.com/Squarespace). Quite a ride it's been!
+
+Beyond the world of 1s and 0s, I'm excited about: 🚴‍♂️ Navigating the vibrant cityscape on two wheels, ☕ Brewing the perfect cup of coffee, 🍸 Mixing signature cocktails, ⛺ Absorbing the tranquility of nature, and 🍳 Creating culinary masterpieces.
+
+Don't hesitate to reach out – I'm always up for delving into these topics, and I'm curious to discover what fuels your fire 🔥.
 
 ---
 
