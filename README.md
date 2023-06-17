@@ -1,5 +1,5 @@
 ### 👋 Hello, friend!
-I'm Mark, delighted you've found your way here! I'm an ardent coder and tech enthusiast, currently illuminating the world through LED pixels [@tidbyt](https://github.com/tidbyt). My tech journey has taken me from supporting AI advancements [@facebook](https://github.com/facebook) to shaping server backends [@Squarespace](https://github.com/Squarespace). Quite a ride it's been!
+I'm Mark, and I'm delighted you've found your way here! I'm an ardent coder and tech enthusiast, currently illuminating the world through LED pixels [@tidbyt](https://github.com/tidbyt). My tech journey has taken me from supporting AI advancements [@facebook](https://github.com/facebook) to shaping server backends [@Squarespace](https://github.com/Squarespace). Quite a ride it's been!
 
 Beyond the world of 1s and 0s, I'm excited about: 🚴‍♂️ navigating the vibrant cityscape on two wheels, ☕ brewing the perfect cup of coffee, 🍸 mixing signature cocktails, ⛺ absorbing the tranquility of nature, and 🍳 creating culinary masterpieces.
 
