@@ -1,16 +1,11 @@
-### 👋 Hello, friend!
-I'm Mark, and I'm delighted you've found your way here! I'm an ardent coder and tech enthusiast, currently illuminating the world through LED pixels [@tidbyt](https://github.com/tidbyt). My tech journey has taken me from shaping server backends [@Squarespace](https://github.com/Squarespace) to supporting AI advancements [@facebook](https://github.com/facebook). Quite a ride it's been!
-
-Beyond the world of 1s and 0s, I'm excited about: 🚴‍♂️ navigating the vibrant cityscape on two wheels, ☕ brewing the perfect cup of coffee, 🍸 mixing signature cocktails, ⛺ absorbing the tranquility of nature, and 🍳 creating culinary masterpieces.
-
-Don't hesitate to reach out – I'm always up for delving into these topics, and I'm curious to discover what fuels your fire 🔥.
+### 👋 Hello there!
+I have a decade of software engineering experience sprinkled across [@DataDog](https://github.com/datadog), [@tidbyt](https://github.com/tidbyt), [@Squarespace](https://github.com/Squarespace), and [@facebook](https://github.com/facebook). Outside of work, I am currently discovering what it means to be a parent. I am really happy in the kitchen cooking or outdoors on my bike. I'd love to meet up for a coffee, find my info below 👇.
 
 ---
 
+[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=codementor&logoColor=white)](https://markspicer.me/resume)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mark@markspicer.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/markspicerjr/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/928004261156106270)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spicer93@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=notion&logoColor=white)](https://betterengineering.notion.site/betterengineering/Mark-Spicer-aa37072963ce46a583b477aeca9ef73b)
 
 
 <!--
